@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Block Joongonara VIP (네이버 카페)
-// @namespace    https://userscripts.roto.win/
+// @namespace    https://github.com/ilsubyeega/userscripts
 // @version      0.1
 // @description  50개글 중 50개 전체가 VIP인건 좀 그렇지 않냐...
 // @author       userscripts.roto.win
