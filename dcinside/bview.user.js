@@ -36,6 +36,8 @@
                 // remove page query parameter from href
                 const url = new URL(a.href);
                 url.searchParams.delete("page");
+                url.searchParams.delete("headid");
+                url.searchParams.delete("recommended");
                 a.href = url.href;
             })
         },
