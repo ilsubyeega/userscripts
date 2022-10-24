@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DCInside-BView
 // @namespace    http://roto.win/
-// @version      202210240
+// @version      202210241
 // @description  url history fixes.
 // @author       ilsubyeega
 // @match        https://m.dcinside.com/board/*
